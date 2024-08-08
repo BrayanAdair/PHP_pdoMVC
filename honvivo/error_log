@@ -1,0 +1,21 @@
+[28-Nov-2023 20:18:37 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home2/bzsoftw2/demo.bzsoftwares.com/index.php on line 294
+[28-Nov-2023 20:18:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/bzsoftw2/demo.bzsoftwares.com/index.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/bzsoftw2/demo.bzsoftwares.com/index.php on line 294
+[28-Nov-2023 20:18:51 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home2/bzsoftw2/demo.bzsoftwares.com/index.php on line 294
+[28-Nov-2023 20:18:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/bzsoftw2/demo.bzsoftwares.com/index.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/bzsoftw2/demo.bzsoftwares.com/index.php on line 294
+[28-Nov-2023 20:19:04 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home2/bzsoftw2/demo.bzsoftwares.com/index.php on line 294
+[28-Nov-2023 20:19:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/bzsoftw2/demo.bzsoftwares.com/index.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/bzsoftw2/demo.bzsoftwares.com/index.php on line 294
+[28-Nov-2023 20:26:59 America/Mexico_City] PHP Warning:  Undefined array key "pgeneral" in /home2/bzsoftw2/demo.bzsoftwares.com/resultadosPrincipales.php on line 338
+[28-Nov-2023 20:26:59 America/Mexico_City] PHP Warning:  Undefined array key "pvip" in /home2/bzsoftw2/demo.bzsoftwares.com/resultadosPrincipales.php on line 342
+[28-Nov-2023 20:40:36 America/Mexico_City] PHP Warning:  Undefined array key "pgeneral" in /home2/bzsoftw2/demo.bzsoftwares.com/resultadosPrincipales.php on line 338
+[28-Nov-2023 20:40:36 America/Mexico_City] PHP Warning:  Undefined array key "pvip" in /home2/bzsoftw2/demo.bzsoftwares.com/resultadosPrincipales.php on line 342
+[28-Nov-2023 20:40:36 America/Mexico_City] PHP Warning:  Undefined array key "pgeneral" in /home2/bzsoftw2/demo.bzsoftwares.com/resultadosPrincipales.php on line 338
+[28-Nov-2023 20:40:36 America/Mexico_City] PHP Warning:  Undefined array key "pvip" in /home2/bzsoftw2/demo.bzsoftwares.com/resultadosPrincipales.php on line 342
